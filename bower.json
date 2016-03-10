@@ -1,0 +1,22 @@
+{
+  "name": "mpx-frontend-module-ch-error",
+  "homepage": "https://github.com/mediapeers/mpx-frontend-module-ch-error",
+  "authors": [
+    "Jason Grier <grier@mediapeers.com>"
+  ],
+  "description": "",
+  "main": "index.js",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "lodash": "~2.4.2",
+    "angular": "^1.4.0"
+  }
+}
