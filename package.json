@@ -16,7 +16,7 @@
   "homepage": "https://github.com/mediapeers/mpx-frontend-module-ch-error#readme",
   "dependencies": {
     "angular": "^1.4.0",
-    "lodash": "~2.4.2"
+    "lodash": "~4.17.13"
   },
   "devDependencies": {
     "del": "^2.2.0",
